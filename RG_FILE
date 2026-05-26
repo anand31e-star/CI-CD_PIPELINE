@@ -1,0 +1,4 @@
+resource "azurerm_resource_group" "rg_blockka2" {
+  name     = "rg_anandka1"
+  location = "West Europe"
+}
